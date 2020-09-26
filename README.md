@@ -1,4 +1,3 @@
-### Hi there 👋
 ![Welcome Banner](https://github.com/alejandrom2/alejandrom2/raw/master/2020-09-25%2022.40.52.gif)
 
 <!--
